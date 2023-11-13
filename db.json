@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Mehdi ghasemifard",
+      "email": "ghasemifard_mehdi@yahoo.com",
+      "password": "Mehdi@123",
+      "phoneNumber": "09168026155",
+      "passwordConfirm": "Mehdi@123",
+      "gender": "0",
+      "nationality": "IR",
+      "intrests": [
+        "React.js"
+      ],
+      "terms": true,
+      "id": 1
+    }
+  ]
+}
